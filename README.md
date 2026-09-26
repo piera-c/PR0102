@@ -142,7 +142,7 @@ sudo ufw status
 
 ## 10. Acceder a Webmin
 
-Desde el navegador del equipo cliente accedemos a:
+Desde el navegador accedemos a:
 
 ```text
 https://192.168.56.101:10000
